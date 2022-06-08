@@ -1,4 +1,4 @@
-# Stage-02-Moveis-Customizados
+# Moveis Customizados
 ## Descrição
 Homepage criada a partir do Figma disponibilizado no Stage 02 do programa Rocketseat Explorer
 
